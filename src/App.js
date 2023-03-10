@@ -1,7 +1,5 @@
-import './App.css'
-import Editable from './components/Editable'
+import LoginPage from './components/LoginPage'
 
-// Replace your code here
-const App = () => <Editable />
+const App = () => <LoginPage />
 
 export default App
