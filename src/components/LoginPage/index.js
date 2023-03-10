@@ -149,6 +149,7 @@ class LoginPage extends Component {
           </button>
         </nav>
         <div>
+          <h2>Welcome to student page.</h2>
           <ul className="ul">
             {list.map(each => (
               <li className="li">{localStorage.getItem(each)}</li>

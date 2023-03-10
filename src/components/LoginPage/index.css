@@ -59,6 +59,7 @@
 .student {
   background-color: #5fa371;
   min-height: 95vh;
+  text-align: center;
 }
 .master {
   background-color: #a9b06d;
